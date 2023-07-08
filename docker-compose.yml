@@ -1,0 +1,7 @@
+version: "3.7"
+
+services:
+  vuejs-srv:
+    build: vuejs-srv
+    ports:
+      - 80:80
